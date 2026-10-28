@@ -166,6 +166,5 @@ The app loads `house_price_model.pkl` and `Bengaluru_House_Data_Cleaned.csv` fro
 - `POST /api/predict` accepts JSON fields `area_type`, `availability`, `location`, `total_sqft`, `bhk`, `bath`, and `balcony`; it returns the estimated price in lakh and rupees.
 =======
 # House-prediction
->>>>>>> 4278617c146722b43f6046691979875418610341
 This project has Developed by Haritha .K
 Aspiring Data analyst & Data Sciiencetist
